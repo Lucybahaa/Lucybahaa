@@ -1,100 +1,87 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h1 align="left" id="losanda-title">:wave: Hello there! I'm Losanda Bahaa</h1>
+<h3 align="left">I do Front-End & Full-Stack Development things</h3>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower"><img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" /></a>
-  <a href="https://jacobcolvin.com"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com"></a>
-  <a href="https://stackoverflow.com/users/4868262"><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow"></a>
-  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube"></a>
-  <a href="https://github.com/MacroPower?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github"></a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img alt="Awesome" src="https://awesome.re/mentioned-badge.svg"></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME" alt="page views" /></a>
+  <a href="https://github.com/YOUR_USERNAME?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat&logo=github"></a>
+  <a href="https://www.linkedin.com/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
 </p>
 
-<a href="#macropower-title"><img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" /></a>
+<a href="#losanda-title"><img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" alt="Losanda" align="right" /></a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :mortar_board: &nbsp;I'm currently studying **Computer Science**
+- :computer: &nbsp;I'm currently learning **Front-End & Full-Stack Development**
+- :seedling: &nbsp;I'm currently working with **HTML, CSS, JavaScript & C#**
+- :books: &nbsp;I'm currently learning **React, .NET, SQL & APIs**
+- :rocket: &nbsp;I'm part of the **DEPI Full-Stack Track**
+- :bulb: &nbsp;I'm interested in **Web Development & Software Engineering**
+- :art: &nbsp;I enjoy building **clean and user-friendly interfaces**
+- :computer: &nbsp;I like turning ideas into real projects
+- :link: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="losanda-tech">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, languages, and technologies that I like to work with.
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/go-original.svg" width="48" height="48" alt="Golang" /></a>
-      <br>Go
+      <a href="#losanda-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /></a>
+      <br>HTML5
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/kcl-icon-color.svg" width="48" height="48" alt="KCL" /></a>
-      <br>KCL
+      <a href="#losanda-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /></a>
+      <br>CSS3
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" /></a>
-      <br>TypeScript
+      <a href="#losanda-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /></a>
+      <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" /></a>
-      <br>Kubernetes
+      <a href="#losanda-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /></a>
+      <br>React
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/dagger.svg" width="48" height="48" alt="Dagger" /></a>
-      <br>Dagger
+      <a href="#losanda-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" /></a>
+      <br>C#
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/nixos-original.svg" width="48" height="48" alt="Nix" /></a>
-      <br>Nix
+      <a href="#losanda-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET" /></a>
+      <br>.NET
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/tmux.svg" width="48" height="48" alt="Tmux" /></a>
-      <br>tmux
+      <a href="#losanda-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /></a>
+      <br>Java
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/neovim-original.svg" width="48" height="48" alt="Neovim" /></a>
-      <br>nvim
+      <a href="#losanda-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /></a>
+      <br>Git
     </td>
   </tr>
 </table>
 
+<h2 align="left">What I'm Working On</h2>
+
+- :seedling: Improving my **Front-End Development** skills
+- :computer: Learning **Full-Stack Development**
+- :rocket: Building projects through **DEPI**
+- :brain: Improving my **problem-solving skills**
+- :books: Learning more about **APIs, Databases & .NET**
+
+<h2 align="left">Projects</h2>
+
+- :cake: **Bakery Project**
+- :hotel: **Hotel Management System**
+- :books: **Educational Project**
+- :zap: **Electrical Wires Project**
+- :gift: **Food & Clothes Donation Platform**
+
 <h2 align="left">Coding Activity</h2>
 
-> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.4 hr  ┤│                                                                                                   
-  2204.4 hr  ┼╯                                                                                                   
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
+> Learning, building, and improving one project at a time.
 
 <!-- links -->
 
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
-
+[LinkedIn]: https://www.linkedin.com/
